@@ -1,5 +1,6 @@
 namespace BIE.Core;
 
+// EntryPolicy für die Monster
 public static class EntryPolicy
 {
     public static Verdict Evaluate(Entry entry)
